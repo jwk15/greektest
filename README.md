@@ -3,7 +3,7 @@ greektest
 
 Some code for Java classes for manipulating polytonic Greek strings. Respective Main methods demonstrate usage.
 
-A couple of the classes are still pretty rough; I stopped actively working on this project more than a year ago, so factor in the haze of time when reading the description below. has the 
+A couple of the classes are still pretty rough; I stopped actively working on this project more than a year ago, so factor in the haze of time when reading the description below. 
 
 CharInfo - the most developed class; gives information on the characters in a given Greek string (e.g., unaccented/accented/circumflex, iota-subsripted).
 
@@ -15,10 +15,12 @@ DiacriticalTest & DiacriticalTest2 - I used these to report a bug with the way E
 
 PrincipleParts - construct the six principal parts of a given regular ω verb. Work in progress.
 
-ContractVowels - supposed to do vowell contraction. Work in progress.
+Works in Progress
+ContractVowels - supposed to do vowel contraction.
 
-GreekChar - work in progress
+Accent - handling accent combination and recessive acentuation. 
 
-Accent - work in progress
+PreNormalizer - supposed to compensate for Eclipse's poor handling of UTF-8. I forget whether I gave this up as a lost cause.
 
-PreNormalizer - work in progress
+GreekChar - I forget what my intention was here.
+
