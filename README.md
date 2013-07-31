@@ -3,7 +3,7 @@ greektest
 
 Some code for Java classes for manipulating polytonic Greek strings. Respective Main methods demonstrate usage.
 
-A couple of the classes are still pretty rough, though I forget which; I stopped actively working on this project more than a year ago.
+A couple of the classes are still pretty rough; I stopped actively working on this project more than a year ago, so factor in the haze of time when reading the description below. has the 
 
 CharInfo - the most developed class; gives information on the characters in a given Greek string (e.g., unaccented/accented/circumflex, iota-subsripted).
 
